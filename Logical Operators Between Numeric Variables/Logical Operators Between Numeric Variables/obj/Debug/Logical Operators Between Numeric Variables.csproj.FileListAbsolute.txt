@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\Logical Operators Between Numeric Variables\Logical Operators Between Numeric Variables\bin\Debug\Logical Operators Between Numeric Variables.exe.config
+C:\Users\lucas\source\repos\Logical Operators Between Numeric Variables\Logical Operators Between Numeric Variables\bin\Debug\Logical Operators Between Numeric Variables.exe
+C:\Users\lucas\source\repos\Logical Operators Between Numeric Variables\Logical Operators Between Numeric Variables\bin\Debug\Logical Operators Between Numeric Variables.pdb
+C:\Users\lucas\source\repos\Logical Operators Between Numeric Variables\Logical Operators Between Numeric Variables\obj\Debug\Logical Operators Between Numeric Variables.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Logical Operators Between Numeric Variables\Logical Operators Between Numeric Variables\obj\Debug\Logical Operators Between Numeric Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\Logical Operators Between Numeric Variables\Logical Operators Between Numeric Variables\obj\Debug\Logical Operators Between Numeric Variables.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Logical Operators Between Numeric Variables\Logical Operators Between Numeric Variables\obj\Debug\Logical Operators Between Numeric Variables.exe
+C:\Users\lucas\source\repos\Logical Operators Between Numeric Variables\Logical Operators Between Numeric Variables\obj\Debug\Logical Operators Between Numeric Variables.pdb
