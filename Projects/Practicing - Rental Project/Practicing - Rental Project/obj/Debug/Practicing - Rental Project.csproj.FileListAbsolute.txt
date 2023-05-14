@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\Practicing - Rental Project\Practicing - Rental Project\bin\Debug\Practicing - Rental Project.exe.config
+C:\Users\lucas\source\repos\Practicing - Rental Project\Practicing - Rental Project\bin\Debug\Practicing - Rental Project.exe
+C:\Users\lucas\source\repos\Practicing - Rental Project\Practicing - Rental Project\bin\Debug\Practicing - Rental Project.pdb
+C:\Users\lucas\source\repos\Practicing - Rental Project\Practicing - Rental Project\obj\Debug\Practicing - Rental Project.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Practicing - Rental Project\Practicing - Rental Project\obj\Debug\Practicing - Rental Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\Practicing - Rental Project\Practicing - Rental Project\obj\Debug\Practicing - Rental Project.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Practicing - Rental Project\Practicing - Rental Project\obj\Debug\Practicing - Rental Project.exe
+C:\Users\lucas\source\repos\Practicing - Rental Project\Practicing - Rental Project\obj\Debug\Practicing - Rental Project.pdb
