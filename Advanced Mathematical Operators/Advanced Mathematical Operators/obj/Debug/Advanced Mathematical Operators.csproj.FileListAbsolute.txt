@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\Advanced Mathematical Operators\Advanced Mathematical Operators\bin\Debug\Advanced Mathematical Operators.exe.config
+C:\Users\lucas\source\repos\Advanced Mathematical Operators\Advanced Mathematical Operators\bin\Debug\Advanced Mathematical Operators.exe
+C:\Users\lucas\source\repos\Advanced Mathematical Operators\Advanced Mathematical Operators\bin\Debug\Advanced Mathematical Operators.pdb
+C:\Users\lucas\source\repos\Advanced Mathematical Operators\Advanced Mathematical Operators\obj\Debug\Advanced Mathematical Operators.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Advanced Mathematical Operators\Advanced Mathematical Operators\obj\Debug\Advanced Mathematical Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\Advanced Mathematical Operators\Advanced Mathematical Operators\obj\Debug\Advanced Mathematical Operators.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Advanced Mathematical Operators\Advanced Mathematical Operators\obj\Debug\Advanced Mathematical Operators.exe
+C:\Users\lucas\source\repos\Advanced Mathematical Operators\Advanced Mathematical Operators\obj\Debug\Advanced Mathematical Operators.pdb
