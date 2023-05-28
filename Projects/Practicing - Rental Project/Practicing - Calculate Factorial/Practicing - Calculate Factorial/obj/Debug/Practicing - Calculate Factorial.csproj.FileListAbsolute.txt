@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\Projects\Practicing - Calculate Factorial\Practicing - Calculate Factorial\bin\Debug\Practicing - Calculate Factorial.exe.config
+C:\Users\lucas\source\repos\Projects\Practicing - Calculate Factorial\Practicing - Calculate Factorial\bin\Debug\Practicing - Calculate Factorial.exe
+C:\Users\lucas\source\repos\Projects\Practicing - Calculate Factorial\Practicing - Calculate Factorial\bin\Debug\Practicing - Calculate Factorial.pdb
+C:\Users\lucas\source\repos\Projects\Practicing - Calculate Factorial\Practicing - Calculate Factorial\obj\Debug\Practicing - Calculate Factorial.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Projects\Practicing - Calculate Factorial\Practicing - Calculate Factorial\obj\Debug\Practicing - Calculate Factorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\Projects\Practicing - Calculate Factorial\Practicing - Calculate Factorial\obj\Debug\Practicing - Calculate Factorial.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Projects\Practicing - Calculate Factorial\Practicing - Calculate Factorial\obj\Debug\Practicing - Calculate Factorial.exe
+C:\Users\lucas\source\repos\Projects\Practicing - Calculate Factorial\Practicing - Calculate Factorial\obj\Debug\Practicing - Calculate Factorial.pdb
