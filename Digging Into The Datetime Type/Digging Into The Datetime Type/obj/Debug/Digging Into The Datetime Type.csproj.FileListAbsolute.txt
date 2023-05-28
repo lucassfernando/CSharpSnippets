@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\Digging Into The Datetime Type\Digging Into The Datetime Type\bin\Debug\Digging Into The Datetime Type.exe.config
+C:\Users\lucas\source\repos\Digging Into The Datetime Type\Digging Into The Datetime Type\bin\Debug\Digging Into The Datetime Type.exe
+C:\Users\lucas\source\repos\Digging Into The Datetime Type\Digging Into The Datetime Type\bin\Debug\Digging Into The Datetime Type.pdb
+C:\Users\lucas\source\repos\Digging Into The Datetime Type\Digging Into The Datetime Type\obj\Debug\Digging Into The Datetime Type.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Digging Into The Datetime Type\Digging Into The Datetime Type\obj\Debug\Digging Into The Datetime Type.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\Digging Into The Datetime Type\Digging Into The Datetime Type\obj\Debug\Digging Into The Datetime Type.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Digging Into The Datetime Type\Digging Into The Datetime Type\obj\Debug\Digging Into The Datetime Type.exe
+C:\Users\lucas\source\repos\Digging Into The Datetime Type\Digging Into The Datetime Type\obj\Debug\Digging Into The Datetime Type.pdb
