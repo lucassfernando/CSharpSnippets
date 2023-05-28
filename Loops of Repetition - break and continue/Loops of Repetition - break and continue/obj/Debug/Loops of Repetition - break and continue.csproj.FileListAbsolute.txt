@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\Loops of Repetition - break and continue\Loops of Repetition - break and continue\bin\Debug\Loops of Repetition - break and continue.exe.config
+C:\Users\lucas\source\repos\Loops of Repetition - break and continue\Loops of Repetition - break and continue\bin\Debug\Loops of Repetition - break and continue.exe
+C:\Users\lucas\source\repos\Loops of Repetition - break and continue\Loops of Repetition - break and continue\bin\Debug\Loops of Repetition - break and continue.pdb
+C:\Users\lucas\source\repos\Loops of Repetition - break and continue\Loops of Repetition - break and continue\obj\Debug\Loops of Repetition - break and continue.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Loops of Repetition - break and continue\Loops of Repetition - break and continue\obj\Debug\Loops of Repetition - break and continue.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\Loops of Repetition - break and continue\Loops of Repetition - break and continue\obj\Debug\Loops of Repetition - break and continue.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Loops of Repetition - break and continue\Loops of Repetition - break and continue\obj\Debug\Loops of Repetition - break and continue.exe
+C:\Users\lucas\source\repos\Loops of Repetition - break and continue\Loops of Repetition - break and continue\obj\Debug\Loops of Repetition - break and continue.pdb
