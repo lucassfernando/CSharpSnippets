@@ -1,0 +1,16 @@
+C:\Users\lucas\source\repos\Projects\Methods and Functions\Methods and Functions\bin\Debug\Methods and Functions.exe.config
+C:\Users\lucas\source\repos\Projects\Methods and Functions\Methods and Functions\bin\Debug\Methods and Functions.exe
+C:\Users\lucas\source\repos\Projects\Methods and Functions\Methods and Functions\bin\Debug\Methods and Functions.pdb
+C:\Users\lucas\source\repos\Projects\Methods and Functions\Methods and Functions\obj\Debug\Methods and Functions.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Projects\Methods and Functions\Methods and Functions\obj\Debug\Methods and Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\Projects\Methods and Functions\Methods and Functions\obj\Debug\Methods and Functions.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Projects\Methods and Functions\Methods and Functions\obj\Debug\Methods and Functions.exe
+C:\Users\lucas\source\repos\Projects\Methods and Functions\Methods and Functions\obj\Debug\Methods and Functions.pdb
+C:\Users\lucas\source\repos\Methods and Functions\Methods and Functions\obj\Debug\Methods and Functions.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Methods and Functions\Methods and Functions\obj\Debug\Methods and Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\Methods and Functions\Methods and Functions\obj\Debug\Methods and Functions.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Methods and Functions\Methods and Functions\obj\Debug\Methods and Functions.exe
+C:\Users\lucas\source\repos\Methods and Functions\Methods and Functions\obj\Debug\Methods and Functions.pdb
+C:\Users\lucas\source\repos\Methods and Functions\Methods and Functions\bin\Debug\Methods and Functions.exe.config
+C:\Users\lucas\source\repos\Methods and Functions\Methods and Functions\bin\Debug\Methods and Functions.exe
+C:\Users\lucas\source\repos\Methods and Functions\Methods and Functions\bin\Debug\Methods and Functions.pdb
